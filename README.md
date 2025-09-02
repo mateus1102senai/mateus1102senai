@@ -1,6 +1,6 @@
 <!-- Banner do Perfil -->
 <p align="center">
-  <img src="[https://your-banner-url.com](https://github.com/holysugar/capistrano_banner)" alt="Banner do GitHub" width="100%" />
+  <img src="https://miro.medium.com/v2/1*O9pYXOq8roaoJsVzBdH_OQ.jpeg" alt="Banner do GitHub" width="100%" />
 </p>
 
 <!-- Título e Saudação -->
