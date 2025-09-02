@@ -1,6 +1,6 @@
 <!-- Banner do Perfil -->
 <p align="center">
-  <img src="https://miro.medium.com/v2/1*O9pYXOq8roaoJsVzBdH_OQ.jpeg" alt="Banner do GitHub" width="70%" />
+  <img src="https://miro.medium.com/v2/1*O9pYXOq8roaoJsVzBdH_OQ.jpeg" alt="Banner do GitHub" width="50%" />
 </p>
 
 <!-- Título e Saudação -->
