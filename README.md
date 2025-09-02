@@ -1,6 +1,6 @@
 <!-- Banner do Perfil -->
 <p align="center">
-  <img src="https://your-banner-url.com" alt="Banner do GitHub" width="100%" />
+  <img src="[https://your-banner-url.com](https://github.com/holysugar/capistrano_banner)" alt="Banner do GitHub" width="100%" />
 </p>
 
 <!-- Título e Saudação -->
@@ -59,8 +59,8 @@ Contribuições são **bem-vindas**! Se você encontrou um erro ou tem sugestõe
 <!-- Contato -->
 ## 📬 Como me Encontrar
 
-- **E-mail**: [seuemail@dominio.com](mailto:seuemail@dominio.com)
-- **LinkedIn**: [Mateus Marcelino](https://www.linkedin.com/in/seulinkedin)
+- **E-mail**: [mateus.marcelino@aluno.senai.br](mailto:seuemail@dominio.com)
+- **LinkedIn**: [Mateus Marcelino]([https://www.linkedin.com/in/seulinkedin](https://www.linkedin.com/in/mateus-marcelino-3bb034326/))
 - **GitHub**: [mateus1102senai](https://github.com/mateus1102senai)
 
 <!-- Licença -->
